@@ -1,0 +1,15 @@
+[submodule "DLND-First-Neural-Network"]
+	path = DLND-First-Neural-Network
+	url = https://github.com/taris123/DLND-First-Neural-Network
+[submodule "image-classification-udacity"]
+	path = image-classification-udacity
+	url = https://github.com/taris123/image-classification-udacity
+[submodule "TV-Script-Generation----Udacity-Project"]
+	path = TV-Script-Generation----Udacity-Project
+	url = https://github.com/taris123/TV-Script-Generation----Udacity-Project
+[submodule "Face-Generation---Udacity-Final-Project"]
+	path = Face-Generation---Udacity-Final-Project
+	url = https://github.com/taris123/Face-Generation---Udacity-Final-Project
+[submodule "Language-Translation----Udacity-Project"]
+	path = Language-Translation----Udacity-Project
+	url = https://github.com/taris123/Language-Translation----Udacity-Project
